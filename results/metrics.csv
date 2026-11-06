@@ -1,0 +1,17 @@
+model,method,metric,value,source
+CLIP,zero-shot,Recall@1,0.6157,printed output
+CLIP,zero-shot,Recall@5,0.8459,printed output
+CLIP,zero-shot,MRR,0.7211,printed output
+CLIP,linear probe,Recall@1,0.5764,written analysis in notebook
+CLIP,partial fine-tune,Recall@1,0.7460,written analysis in notebook
+CLIP,LoRA,Recall@1,0.4300,written analysis in notebook
+CLIP,full fine-tune,Recall@1,0.6389,written analysis in notebook
+BLIP,zero-shot,BLEU-4,0.1639,hard-coded in notebook from the baseline run
+BLIP,zero-shot,ROUGE-L,0.2438,hard-coded in notebook from the baseline run
+BLIP,zero-shot,METEOR,0.1385,hard-coded in notebook from the baseline run
+BLIP,zero-shot,BERTScore,0.8924,hard-coded in notebook from the baseline run
+BLIP,linear probe,BLEU-4,0.2368,written analysis in notebook
+BLIP,partial fine-tune,BLEU-4,0.2548,written analysis in notebook
+BLIP,LoRA,BLEU-4,0.1527,written analysis in notebook
+BLIP,full fine-tune,BLEU-4,0.2941,written analysis in notebook
+BLIP,full fine-tune,ROUGE-L,0.3455,written analysis in notebook
