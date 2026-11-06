@@ -84,3 +84,11 @@ The code was rebuilt from my course notebook (the three notebook copies differ s
 Author: Vrushabh Bodarya
 
 `PyTorch` `Transformers` `PEFT` `CLIP` `BLIP`
+
+## Notebooks
+
+- [`HW4_with_outputs.ipynb`](notebooks/HW4_with_outputs.ipynb): the run with saved outputs.
+- [`HW4_clean_source.ipynb`](notebooks/HW4_clean_source.ipynb): the same assignment with outputs cleared.
+
+Student identifiers and Colab account metadata were removed; code and outputs are unchanged.
+
